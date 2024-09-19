@@ -23,7 +23,7 @@ text-align: center;
 
 -------
 
-### Resources 11
+### Resources 12
 
 -------
 
@@ -46,7 +46,7 @@ If you would like to reach out, please contact me below:
 <iframe width="192" height="108" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div class="CENTERTEXT"><a href="URL">MORE</a></div>
+<div class="CENTERTEXT"><a href="URL">MORE</a></div> <br>
 
 -------
 
