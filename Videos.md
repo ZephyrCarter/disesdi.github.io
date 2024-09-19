@@ -23,7 +23,7 @@ text-align: center;
 
 -------
 
-### Resources 12
+### Resources 13
 
 -------
 
@@ -46,11 +46,7 @@ If you would like to reach out, please contact me below:
 <iframe width="192" height="108" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div class="CENTERTEXT"><a href="URL">MORE</a></div> <br>
-
--------
-
-[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+<div class="CENTERTEXT"><a href="URL">MORE</a></div> 
 
 -------
 
