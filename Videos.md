@@ -7,6 +7,11 @@
 text-align: center;
   
 }
+
+.SHORTS {
+  float: left;
+  padding: 10px; 
+}
   
 </style>
 
@@ -18,7 +23,7 @@ text-align: center;
 
 -------
 
-### Resources 10
+### Resources 11
 
 -------
 
@@ -33,11 +38,11 @@ If you would like to reach out, please contact me below:
 
 -------
 
-<div class="Shorts">
+<div class="SHORTS">
 <iframe width="192" height="108" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div class="Shorts">
+<div class="SHORTS">
 <iframe width="192" height="108" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
