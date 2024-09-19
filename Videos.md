@@ -1,11 +1,13 @@
 <!-- In-page CSS start -->
 
 <style>
-.Shorts {
-  float: left;
-  padding: 10px; 
-}
 
+.CENTERTEXT {
+
+text-align: center;
+  
+}
+  
 </style>
 
 <!-- In-page CSS end -->
@@ -16,7 +18,7 @@
 
 -------
 
-### Resources 09
+### Resources 10
 
 -------
 
@@ -39,9 +41,7 @@ If you would like to reach out, please contact me below:
 <iframe width="192" height="108" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div class="Shorts">
-<iframe width="192" height="108" src="https://youtube.com/embed/T0wgyI2f668?si=8t9xMeVFYA3ouTp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<div class="CENTERTEXT"><a href="URL">MORE</a></div>
 
 -------
 
