@@ -4,7 +4,7 @@
 
 -------
 
-### Resources 04
+### Resources 05
 
 -------
 
@@ -19,7 +19,7 @@ This, in addition to my Youtube Channel <a href="https://www.youtube.com/@disesd
 -------
 
 
-<iframe width="1920" height="1080" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="192" height="108" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 -------
