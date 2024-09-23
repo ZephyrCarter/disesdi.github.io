@@ -2,10 +2,16 @@
 
 <style>
 
-.CENTERTEXT {
+.arrow {
+  border: solid pink;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
 
-text-align: center;
-  
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
 }
 
 .SHORTS {
@@ -23,7 +29,7 @@ text-align: center;
 
 -------
 
-### Resources 13
+### Resources 14
 
 -------
 
@@ -46,11 +52,14 @@ If you would like to reach out, please contact me below:
 <iframe width="192" height="108" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<div class="CENTERTEXT"><a href="URL">MORE</a></div> 
+<p>More <i class="arrow right"></i></p>
+
+-------
+[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 -------
 
-<div align="center">🕷</div>
+
 
 
 
