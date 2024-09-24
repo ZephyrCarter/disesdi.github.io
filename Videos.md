@@ -30,7 +30,7 @@
 
 -------
 
-### Resources 16
+### Resources 17
 
 -------
 
@@ -46,14 +46,14 @@ If you would like to reach out, please contact me below:
 -------
 
 <div class="SHORTS">
-<iframe width="285" height="500" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" ></iframe>
-<iframe width="285" height="500" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" ></iframe>
+<iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" ></iframe>
+<iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" ></iframe>
 </div>
 
 <div class="SHORTS">
-    <iframe width="285" height="500" src="https://youtube.com/embed/Q60hPIm0344?feature=share"></iframe>
-    <iframe width="285" height="500" src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
-  </div>
+    <iframe width="142" height="250" src="https://youtube.com/embed/Q60hPIm0344?feature=share"></iframe>
+    <iframe width="142" height="250" src="https://youtube.com/embed/ZTds8TV1a2Y?feature=share"></iframe>
+</div>
 
 <p>More <i class="arrow right"></i></p>
 
