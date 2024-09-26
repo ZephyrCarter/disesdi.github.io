@@ -24,7 +24,7 @@ text-align: center;
 }
 .TEXTLEFT {
 
-text-align: right;
+text-align: left;
        
 }
   
