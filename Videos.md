@@ -30,7 +30,7 @@
 
 -------
 
-### Resources 20
+### Resources 21
 
 -------
 
@@ -51,7 +51,7 @@ If you would like to reach out, please contact me below:
 </div>
 
 <h3>
-<p><a href="URL">More</a><i class="arrow right"></i></p>
+<p><a href="https://zephyrcarter.github.io/disesdi.github.io/MoreShorts.html">More</a><i class="arrow right"></i></p>
 </h3>
 
 -------
