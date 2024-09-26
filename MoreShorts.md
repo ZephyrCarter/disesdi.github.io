@@ -12,11 +12,11 @@
 
 <!-- In-page CSS end -->
 
-# Shorts1
+# Shorts2
 -------
 
 <h3>
-<p><a href="URL">More</a><i class="arrow right"></i></p>
+<p><a href="https://zephyrcarter.github.io/disesdi.github.io/Videos.html">More</a><i class="arrow right"></i></p>
 </h3>
 
 <div class="SHORTS">
