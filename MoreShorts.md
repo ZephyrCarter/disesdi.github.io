@@ -17,12 +17,15 @@
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
 }
-       
+
+body {text-align: center;
+     
+}
 </style>
 
 <!-- In-page CSS end -->
 
-# Shorts4
+# Shorts
 -------
 
 <h3>
