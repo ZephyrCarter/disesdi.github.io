@@ -7,16 +7,26 @@
       margin-bottom: 10px;
  
 }
-  
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+       
 </style>
 
 <!-- In-page CSS end -->
 
-# Shorts2
+# Shorts3
 -------
 
 <h3>
-<p><a href="https://zephyrcarter.github.io/disesdi.github.io/Videos.html">More</a><i class="arrow right"></i></p>
+<p><i class="arrow left"></i><a href="https://zephyrcarter.github.io/disesdi.github.io/Videos.html">More</a></p>
 </h3>
 
 <div class="SHORTS">
