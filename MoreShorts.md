@@ -20,7 +20,7 @@
 
 body {
 
-text-align: ;
+text-align: center;
      
 }
 .TEXTLEFT {
@@ -33,7 +33,7 @@ text-align: left;
 
 <!-- In-page CSS end -->
 
-# Shorts2
+# Shorts3
 -------
 
 <div class="TEXTLEFT">
