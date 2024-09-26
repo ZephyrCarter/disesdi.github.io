@@ -47,7 +47,7 @@ border-radius: 5px;
 
 -------
 
-### Resources 28
+### Resources 28.5
 
 -------
 
@@ -79,17 +79,19 @@ If you would like to reach out, please contact me below:
 -------
 
 <div class="VIDEOS">
-<iframe width="140" height="79" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="79" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="140" height="79" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player"  allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="79" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="140" height="79" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="79" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="VIDEOS">
-<iframe width="140" height="79" src="https://www.youtube.com/embed/j1qd2shDVro?si=8ursB8z9BhTvr7RN" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="79" src="https://www.youtube.com/embed/j1qd2shDVro?si=8ursB8z9BhTvr7RN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/majXToGxld0?si=vyzDzkZMM5plSblo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+-->
 -------
 
 [home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
