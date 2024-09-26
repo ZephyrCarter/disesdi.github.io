@@ -52,7 +52,7 @@ text-align: left;
 
 <!-- In-page CSS end -->
 
-<h1> Shorts6</h1>
+<h1> Shorts</h1>
 <hr>
 
 <div class="TEXTLEFT">
@@ -61,26 +61,35 @@ text-align: left;
 </h3>
 </div>
 
+<!-- ADD NEWEST SHORTS THREE AT A TIME ABOVE THE PREVIOUS ONES (instructions below) -->
+
 <div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" ></iframe>
 <iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" ></iframe>
 <iframe width="142" height="250" src="https://youtube.com/embed/T0wgyI2f668?feature=share" ></iframe>
+</div>
+
+<div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/HkantGDXrB4?feature=share" ></iframe> 
+<!-- <iframe width="142" height="250" src="URL?feature=share" ></iframe>
+     <iframe width="142" height="250" src="URL?feature=share" ></iframe> -->
 </div>
 
 <hr>
+
+
 <!-- COPY AND PASTE THIS CODE AND ADD YOUR "URL" FOR EVERY VIDEO YOU WANT ADDED, LEAVING THE "?feature=share" PART -->
-<!-- NOTE: PLEASE ADD VIDEOS FOUR AT A TIME, THAT IS THE FORMAT FOR DESKTOP -->
+<!-- NOTE: PLEASE ADD VIDEOS THREE AT A TIME, THAT IS THE MAXIMUM NUMBER OF VIDEOS DISPLAYABLE IN A ROW ON DESKTOP -->
 <!-- ALSO: WHEN PUTTING IN YOUR LINK TO YOUR YOUTUBE SHORT, REPLACE THE "shorts" WITH "embed", AS SEEN BELOW:-->
 <!--
 <iframe width="142" height="250" src="https://www.youtube.com/shorts/HkantGDXrB4?feature=share" ></iframe> 
                                                                 |
                                                                 V
 <iframe width="142" height="250" src="https://www.youtube.com/embed/HkantGDXrB4?feature=share" ></iframe>                --->   
-<!-- CODE TO COPY -->
+
+<!-- COPY CODE FOR SHORTS -->
 <!--
 <div class="SHORTS">
-<iframe width="142" height="250" src="URL?feature=share" ></iframe>
 <iframe width="142" height="250" src="URL?feature=share" ></iframe>
 <iframe width="142" height="250" src="URL?feature=share" ></iframe>
 <iframe width="142" height="250" src="URL?feature=share" ></iframe>
