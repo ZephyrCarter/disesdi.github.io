@@ -34,7 +34,7 @@
 <iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" ></iframe>
 </div>
 
-<div class="SHORTS"
+<div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/T0wgyI2f668?feature=share" ></iframe>
 </div>
 
