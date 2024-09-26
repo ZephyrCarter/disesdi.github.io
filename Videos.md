@@ -19,6 +19,23 @@
       margin-bottom: 10px;
  
 }
+ .VIDEOS {
+display: flex;
+justify-content: left;
+flex-wrap: wrap;
+gap: 10px;
+margin: 20px 0;
+}
+.VIDEOS div {
+height: 100px;
+width: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+font-weight: bold;
+border-radius: 5px;
+}  
   
 </style>
 
@@ -30,7 +47,7 @@
 
 -------
 
-### Resources 25
+### Resources 27
 
 -------
 
@@ -45,10 +62,12 @@ If you would like to reach out, please contact me below:
 
 -------
 
+<div class="VIDEOS">
 <div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" allowfullscreen></iframe>
   
 <iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" allowfullscreen></iframe>
+</div>
 </div>
 
 <h3>
@@ -60,13 +79,17 @@ If you would like to reach out, please contact me below:
 
 -------
 
-<iframe width="186" height="105" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="VIDEOS">
+<iframe width="140" height="79" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="186" height="105" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player"  allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="79" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player"  allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="186" height="105" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="140" height="79" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-<iframe width="186" height="105" src="https://www.youtube.com/embed/j1qd2shDVro?si=8ursB8z9BhTvr7RN" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="VIDEOS">
+<iframe width="140" height="79" src="https://www.youtube.com/embed/j1qd2shDVro?si=8ursB8z9BhTvr7RN" title="YouTube video player" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 -------
 
