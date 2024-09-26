@@ -17,7 +17,11 @@
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
 }
+.TEXTCENTER {
 
+text-align: center;
+       
+}
 .TEXTLEFT {
 
 text-align: right;
@@ -25,29 +29,33 @@ text-align: right;
 }
   
  .SHORTS {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin: 20px 0;
-        }
-
-        .SHORTS div {
-            height: 100px;
-            width: 200px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: bold;
-            border-radius: 5px;
-        }  
+display: flex;
+justify-content: left;
+flex-wrap: wrap;
+gap: 10px;
+margin: 20px 0;
+}
+.SHORTS div {
+height: 100px;
+width: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+font-weight: bold;
+border-radius: 5px;
+}  
   
 </style>
 
 <!-- In-page CSS end -->
 
-<h1>Shorts3</h1>
+
+<div class="TEXTCENTER">
+<h1>Shorts4</h1>
+</div>
+
+
 <hr>
 
 <div class="TEXTLEFT">
@@ -67,7 +75,8 @@ text-align: right;
 <div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/HkantGDXrB4?feature=share" ></iframe> 
 <!-- <iframe width="142" height="250" src="URL?feature=share" ></iframe>
-     <iframe width="142" height="250" src="URL?feature=share" ></iframe> -->
+     <iframe width="142" height="250" src="URL?feature=share" ></iframe> 
+-->
 </div>
 
 <hr>
