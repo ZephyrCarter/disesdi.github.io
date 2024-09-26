@@ -19,12 +19,12 @@
 }
 body{
 
-text-align: center;
+text-align: left;
        
 }
 .TEXTLEFT {
 
-text-align: left;
+text-align: right;
        
 }
   
@@ -51,7 +51,7 @@ text-align: left;
 
 <!-- In-page CSS end -->
 
-<h1>Shorts1</h1>
+<h1>Shorts2</h1>
 <hr>
 
 <div class="TEXTLEFT">
@@ -100,5 +100,7 @@ text-align: left;
 </div>
 </div>
 -->
+
+
 
 
