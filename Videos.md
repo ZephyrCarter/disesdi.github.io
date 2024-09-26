@@ -55,7 +55,7 @@ If you would like to reach out, please contact me below:
 </h3>
 -------
 
-### More Videos1
+### More Videos
 
 -------
 
