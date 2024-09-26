@@ -18,12 +18,14 @@
   -webkit-transform: rotate(135deg);
 }
 
-body {text-align: center;
+body {
+
+text-align: ;
      
 }
 .TEXTLEFT {
 
-text-align: center;
+text-align: left;
        
 }
        
@@ -31,7 +33,7 @@ text-align: center;
 
 <!-- In-page CSS end -->
 
-# Shorts1
+# Shorts2
 -------
 
 <div class="TEXTLEFT">
