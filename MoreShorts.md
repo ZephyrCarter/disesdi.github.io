@@ -21,6 +21,12 @@
 body {text-align: center;
      
 }
+.TEXTLEFT {
+
+text-align: center;
+       
+}
+       
 </style>
 
 <!-- In-page CSS end -->
@@ -28,9 +34,11 @@ body {text-align: center;
 # Shorts
 -------
 
+<div class="TEXTLEFT">
 <h3>
 <p><i class="arrow left"></i><a href="https://zephyrcarter.github.io/disesdi.github.io/Videos.html">More</a></p>
 </h3>
+</div>
 
 <div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" ></iframe>
