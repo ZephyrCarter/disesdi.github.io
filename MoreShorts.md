@@ -17,11 +17,7 @@
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
 }
-body{
 
-text-align: left;
-       
-}
 .TEXTLEFT {
 
 text-align: right;
@@ -62,20 +58,16 @@ text-align: right;
 
 <!-- ADD NEWEST SHORTS THREE AT A TIME ABOVE THE PREVIOUS ONES (instructions below) -->
 
-<div class="TEXTLEFT">
 <div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" ></iframe>
 <iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" ></iframe>
 <iframe width="142" height="250" src="https://youtube.com/embed/T0wgyI2f668?feature=share" ></iframe>
 </div>
-</div>
 
-<div class="TEXTLEFT">
 <div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/HkantGDXrB4?feature=share" ></iframe> 
 <!-- <iframe width="142" height="250" src="URL?feature=share" ></iframe>
      <iframe width="142" height="250" src="URL?feature=share" ></iframe> -->
-</div>
 </div>
 
 <hr>
@@ -92,12 +84,10 @@ text-align: right;
 
 <!-- COPY CODE FOR SHORTS -->
 <!--
-<div class="TEXTLEFT">
 <div class="SHORTS">
 <iframe width="142" height="250" src="URL?feature=share" ></iframe>
 <iframe width="142" height="250" src="URL?feature=share" ></iframe>
 <iframe width="142" height="250" src="URL?feature=share" ></iframe>
-</div>
 </div>
 -->
 
