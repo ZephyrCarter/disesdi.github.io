@@ -14,7 +14,7 @@
   -webkit-transform: rotate(-45deg);
 }
 
-.SHORTS {
+.VIDEOS {
        display: flex;
       margin-bottom: 10px;
  
@@ -47,7 +47,7 @@ border-radius: 5px;
 
 -------
 
-### Resources 27
+### Resources 28
 
 -------
 
@@ -63,12 +63,11 @@ If you would like to reach out, please contact me below:
 -------
 
 <div class="VIDEOS">
-<div class="SHORTS">
 <iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" allowfullscreen></iframe>
   
 <iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" allowfullscreen></iframe>
 </div>
-</div>
+
 
 <h3>
 <p><a href="https://zephyrcarter.github.io/disesdi.github.io/MoreShorts.html">More</a><i class="arrow right"></i></p>
