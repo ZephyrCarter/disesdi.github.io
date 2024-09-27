@@ -19,7 +19,7 @@ text-align: left;
   
  .SHORTS {
 display: flex;
-justify-content: left;
+justify-content: center;
 flex-wrap: wrap;
 gap: 10px;
 margin: 20px 0;
