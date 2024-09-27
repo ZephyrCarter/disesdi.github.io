@@ -2,18 +2,6 @@
 
 <style>
 
-.arrow {
-  border: solid pink;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-}
-
-.right {
-  transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
-}
-
 .VIDEOS {
        display: flex;
       margin-bottom: 10px;
@@ -36,18 +24,18 @@ color: white;
 font-weight: bold;
 border-radius: 5px;
 }  
-  
+ 
 </style>
 
 <!-- In-page CSS end -->
 
 -------
 
-[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **videos** \| </a> \|<a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 -------
 
-### Resources 31
+### Videos 32
 
 -------
 
@@ -68,10 +56,8 @@ If you would like to reach out, please contact me below:
 <iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" allowfullscreen></iframe>
 </div>
 
+### [More >>](https://anglesofattack.io/MoreShorts.html)
 
-<h3>
-<p><a href="https://zephyrcarter.github.io/disesdi.github.io/MoreShorts.html">More</a><i class="arrow right"></i></p>
-</h3>
 -------
 
 ### Full Videos
@@ -86,13 +72,11 @@ If you would like to reach out, please contact me below:
 <iframe width="158" height="97" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<div class="VIDEOS">
-<iframe width="158" height="97" src="https://www.youtube.com/embed/j1qd2shDVro?si=8ursB8z9BhTvr7RN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+### [More >>](https://anglesofattack.io/MoreShorts.html)
 
 -------
 
-[home](https://disesdi.github.io/) \| **resources** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **videos** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 -------
 
