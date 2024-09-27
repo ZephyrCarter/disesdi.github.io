@@ -31,7 +31,7 @@ border-radius: 5px;
 
 -------
 
-[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **videos** \| </a> \|<a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **videos** \| \|<a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 -------
 
