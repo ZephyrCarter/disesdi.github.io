@@ -39,20 +39,21 @@ border-radius: 5px;
 
 <!-- In-page CSS end -->
 
-[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **Videos** \|           
-<a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **Videos** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 <div class="TEXTCENTER">
-<h2>Shorts</h2>
+<h2>Short1</h2>
 </div>
 
 
 <hr>
 
 <div class="TEXTLEFT">
+<h3>
 
-### [<< Back](https://anglesofattack.io/MoreShorts.html)
+[<< Back](https://anglesofattack.io/MoreShorts.html)
 
+</h3>
 </div>
 
 <!-- ADD NEWEST SHORTS THREE AT A TIME ABOVE THE PREVIOUS ONES (instructions below) -->
