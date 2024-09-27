@@ -51,11 +51,11 @@ If you would like to reach out, please contact me below:
 -------
 
 <div class="VIDEOS">
-<iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" allowfullscreen></iframe>
+<iframe width="156" height="264" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" allowfullscreen></iframe>
   
-<iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" allowfullscreen></iframe>
+<iframe width="156" height="264" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" allowfullscreen></iframe>
 
-<iframe width="142" height="250" src="https://youtube.com/embed/T0wgyI2f668?feature=share" allowfullscreen></iframe>
+<iframe width="156" height="264" src="https://youtube.com/embed/T0wgyI2f668?feature=share" allowfullscreen></iframe>
 </div>
 
 ### [More >>](https://anglesofattack.io/MoreShorts.html)
@@ -74,7 +74,7 @@ If you would like to reach out, please contact me below:
 <iframe width="160" height="99" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-### [More >>](https://anglesofattack.io/MoreShorts.html)
+### [More >>](https://anglesofattack.io/MoreVideos.html)
 
 -------
 
