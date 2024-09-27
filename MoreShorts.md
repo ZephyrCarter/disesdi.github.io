@@ -42,7 +42,7 @@ border-radius: 5px;
 [home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **Videos** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 <div class="TEXTCENTER">
-<h2>Short2</h2>
+<h2>Short3</h2>
 </div>
 
 
@@ -50,11 +50,7 @@ border-radius: 5px;
 
 <div class="TEXTLEFT">
 <h3>
-
-
-[<< Back](https://anglesofattack.io/MoreShorts.html)
-
-
+<a href="https://disesdi.github.io/Videos.html"> << More </a>
 </h3>
 </div>
 
