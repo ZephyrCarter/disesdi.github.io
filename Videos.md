@@ -47,7 +47,7 @@ border-radius: 5px;
 
 -------
 
-### Resources 30
+### Resources 31
 
 -------
 
@@ -74,20 +74,20 @@ If you would like to reach out, please contact me below:
 </h3>
 -------
 
-### More Videos
+### Full Videos
 
 -------
 
 <div class="VIDEOS">
-<iframe width="155" height="94" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="158" height="97" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="155" height="94" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="158" height="97" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="155" height="94" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="158" height="97" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="VIDEOS">
-<iframe width="155" height="94" src="https://www.youtube.com/embed/j1qd2shDVro?si=8ursB8z9BhTvr7RN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="158" height="97" src="https://www.youtube.com/embed/j1qd2shDVro?si=8ursB8z9BhTvr7RN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 -------
