@@ -5,17 +5,6 @@
 .SHORTS {
        display: flex;
       margin-bottom: 10px;
- 
-}
-.arrow {
-  border: solid black;
-  border-width: 0 3px 3px 0;
-  display: inline-block;
-  padding: 3px;
-}
-.left {
-  transform: rotate(135deg);
-  -webkit-transform: rotate(135deg);
 }
 .TEXTCENTER {
 
@@ -50,6 +39,9 @@ border-radius: 5px;
 
 <!-- In-page CSS end -->
 
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **Videos** \|           
+<a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+
 <div class="TEXTCENTER">
 <h2>Shorts</h2>
 </div>
@@ -58,9 +50,9 @@ border-radius: 5px;
 <hr>
 
 <div class="TEXTLEFT">
-<h3>
-<p><i class="arrow left"></i><a href="https://zephyrcarter.github.io/disesdi.github.io/Videos.html">Back</a></p>
-</h3>
+
+### [<< Back](https://anglesofattack.io/MoreShorts.html)
+
 </div>
 
 <!-- ADD NEWEST SHORTS THREE AT A TIME ABOVE THE PREVIOUS ONES (instructions below) -->
