@@ -19,7 +19,7 @@ text-align: left;
   
  .SHORTS {
 display: flex;
-justify-content: center;
+justify-content: left;
 flex-wrap: wrap;
 gap: 10px;
 margin: 20px 0;
@@ -29,7 +29,7 @@ height: 100px;
 width: 200px;
 display: flex;
 align-items: center;
-justify-content: left;
+justify-content: center;
 color: white;
 font-weight: bold;
 border-radius: 5px;
