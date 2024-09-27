@@ -50,7 +50,7 @@ border-radius: 5px;
 
 <div class="TEXTLEFT">
 <h3>
-<a href="https://disesdi.github.io/Videos.html"> << More </a>
+<a href="https://anglesofattack.io/Videos.html"> << More </a>
 </h3>
 </div>
 
