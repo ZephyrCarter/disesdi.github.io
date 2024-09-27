@@ -51,7 +51,7 @@ border-radius: 5px;
 <!-- In-page CSS end -->
 
 <div class="TEXTCENTER">
-<h2>Shorts1</h2>
+<h2>Shorts2</h2>
 </div>
 
 
@@ -72,7 +72,7 @@ border-radius: 5px;
 </div>
 
 <div class="SHORTS">
-<iframe width="142" height="250" src="https://youtube.com/embed/HkantGDXrB4?feature=share" allowfullscreen></iframe> 
+<iframe width="149" height="257" src="https://youtube.com/embed/HkantGDXrB4?feature=share" allowfullscreen></iframe> 
 <!-- <iframe width="142" height="250" src="URL?feature=share" allowfullscreen></iframe>
      <iframe width="142" height="250" src="URL?feature=share" allowfullscreen></iframe> 
 -->
