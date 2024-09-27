@@ -28,8 +28,8 @@ margin: 20px 0;
 height: 100px;
 width: 200px;
 display: flex;
-align-items: left;
-justify-content: center;
+align-items: center;
+justify-content: left;
 color: white;
 font-weight: bold;
 border-radius: 5px;
@@ -42,7 +42,7 @@ border-radius: 5px;
 [home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **Videos** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 <div class="TEXTCENTER">
-<h2>Shortss</h2>
+<h2>Shorts</h2>
 </div>
 
 
