@@ -52,7 +52,7 @@ border-radius: 5px;
 
 
 <div class="TEXTCENTER">
-<h1>Shorts4</h1>
+<h3>Shorts</h3>
 </div>
 
 
@@ -60,22 +60,22 @@ border-radius: 5px;
 
 <div class="TEXTLEFT">
 <h3>
-<p><i class="arrow left"></i><a href="https://zephyrcarter.github.io/disesdi.github.io/Videos.html">More</a></p>
+<p><i class="arrow left"></i><a href="https://zephyrcarter.github.io/disesdi.github.io/Videos.html">Back</a></p>
 </h3>
 </div>
 
 <!-- ADD NEWEST SHORTS THREE AT A TIME ABOVE THE PREVIOUS ONES (instructions below) -->
 
 <div class="SHORTS">
-<iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" ></iframe>
-<iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" ></iframe>
-<iframe width="142" height="250" src="https://youtube.com/embed/T0wgyI2f668?feature=share" ></iframe>
+<iframe width="142" height="250" src="https://youtube.com/embed/_X_OPqMn684?si=rUwFLSKxz7ynJzWq?feature=share" allowfullscreen></iframe>
+<iframe width="142" height="250" src="https://youtube.com/embed/nLuSieUljYE?si=LS1uNNeeWbUZhxdJ?feature=share" allowfullscreen></iframe>
+<iframe width="142" height="250" src="https://youtube.com/embed/T0wgyI2f668?feature=share" allowfullscreen></iframe>
 </div>
 
 <div class="SHORTS">
-<iframe width="142" height="250" src="https://youtube.com/embed/HkantGDXrB4?feature=share" ></iframe> 
-<!-- <iframe width="142" height="250" src="URL?feature=share" ></iframe>
-     <iframe width="142" height="250" src="URL?feature=share" ></iframe> 
+<iframe width="142" height="250" src="https://youtube.com/embed/HkantGDXrB4?feature=share" allowfullscreen></iframe> 
+<!-- <iframe width="142" height="250" src="URL?feature=share" allowfullscreen></iframe>
+     <iframe width="142" height="250" src="URL?feature=share" allowfullscreen></iframe> 
 -->
 </div>
 
