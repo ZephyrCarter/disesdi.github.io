@@ -42,7 +42,7 @@ border-radius: 5px;
 [home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **Videos** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 <div class="TEXTCENTER">
-<h2>Short</h2>
+<h2>Shorts</h2>
 </div>
 
 
