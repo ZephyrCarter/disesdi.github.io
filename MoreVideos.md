@@ -68,6 +68,9 @@ border-radius: 5px;
 
 <hr>
 
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| **Videos** \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+
+<hr>
 
 <!-- COPY AND PASTE THIS CODE AND ADD YOUR "URL" FOR EVERY VIDEO YOU WANT ADDED -->
 <!-- NOTE: PLEASE ADD VIDEOS THREE AT A TIME, THAT IS THE MAXIMUM NUMBER OF VIDEOS DISPLAYABLE IN A ROW ON DESKTOP -->
