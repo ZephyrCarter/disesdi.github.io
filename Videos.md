@@ -67,11 +67,11 @@ If you would like to reach out, please contact me below:
 -------
 
 <div class="VIDEOS">
-<iframe width="158" height="97" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="159" height="98" src="https://www.youtube.com/embed/majXToGxld0?si=YWSRX8IvTkWR1CbX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="158" height="97" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="159" height="98" src="https://www.youtube.com/embed/SlegGuklfxw?si=iVNxu6oSz1WvRw9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="158" height="97" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="159" height="98" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=tZmam3nhsPHr93b6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ### [More >>](https://anglesofattack.io/MoreShorts.html)
