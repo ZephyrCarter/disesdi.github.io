@@ -1,17 +1,30 @@
 <style>
 
-header {background: black;
+ header {
+        background: black;
        
        
        
        }
   
+ section {
+         background: red;
 
-  
+        
+          }
+
+       footer {
+              background: yellow;  
+
+              
+       }
+
+
+       
 </style>
 
 
-<h1>Hi! this are my articles!</h1>
+<h1>Hi! these are my articles!</h1>
 
 <hr>
 
