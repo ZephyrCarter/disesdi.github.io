@@ -1,7 +1,7 @@
 <style>
 
-.Article;Date;(NUMBER) {background-color: grey;
-                        margin: 20px;
+.ArticleDateNUMBER {background: grey;
+                        padding: 20px;
  
                        
                        
@@ -15,8 +15,8 @@
 
 <hr>
 
-<div class="Article;Date;(NUMBER)">
-hi1
+<div class="ArticleDateNUMBER">
+hi11
 </div>
 
 
