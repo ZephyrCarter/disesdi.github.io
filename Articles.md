@@ -1,6 +1,6 @@
 <style>
 
-.Article;Date;(NUMBER) {background: grey;
+.Article;Date;(NUMBER) {background-color: grey;
                         margin: 20px;
  
                        
@@ -16,7 +16,7 @@
 <hr>
 
 <div class="Article;Date;(NUMBER)">
-hi
+hi1
 </div>
 
 
