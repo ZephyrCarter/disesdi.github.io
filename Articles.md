@@ -25,7 +25,7 @@ hi11
 </div>
 
 <div class="Article11/06/2024one">
-hi112
+hi
 </div>
 
 
