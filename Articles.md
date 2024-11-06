@@ -6,13 +6,6 @@
                        
                        
                        }
-.Article11/06/2024one { background: grey;
-                        padding: 20px;
-                        margin: 10px;
-                       
-                       
-                       }
-       
 </style>
 
 
@@ -24,8 +17,8 @@
 hi11
 </div>
 
-<div class="Article11/06/2024one">
-hi
+<div class="ArticleDateNUMBER">
+hii
 </div>
 
 
