@@ -1,12 +1,12 @@
 <style>
 
-.ArticleDateNUMBER {background: grey;
+.ArticleDateNUMBER { background: grey;
                         padding: 20px;
                         margin: 10px;
                        
                        
                        }
-.Article11/06/2024one {background: grey;
+.Article11/06/2024one { background: grey;
                         padding: 20px;
                         margin: 10px;
                        
@@ -25,7 +25,7 @@ hi11
 </div>
 
 <div class="Article11/06/2024one">
-hi11
+hi112
 </div>
 
 
