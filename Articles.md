@@ -1,24 +1,11 @@
 <style>
 
- header {
-        background: black;
-       
-       
-       
-       }
-  
- section {
-         background: red;
-
-        
-          }
-
-       footer {
-              background: yellow;  
-
-              
-       }
-
+.Article;Date;(NUMBER) {background: grey;
+                        margin: 20px;
+ 
+                       
+                       
+                       }
 
        
 </style>
@@ -28,13 +15,9 @@
 
 <hr>
 
-<header>header</header>
-<section>triple section</section>
-<section>lower section</section>
-<footer>footer</footer>
-
-
-
+<div class="Article;Date;(NUMBER)">
+hi
+</div>
 
 
 
