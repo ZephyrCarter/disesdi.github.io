@@ -13,13 +13,13 @@
 
 <hr>
 
-<div class="ArticleDateNUMBER">
-hi11
-</div>
+<section>
+  
+<div>a</div>
+<div>b</div>
+<div>c</div>
 
-<div class="ArticleDateNUMBER">
-hii
-</div>
+</section>
 
 
 
