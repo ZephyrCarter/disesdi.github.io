@@ -1,11 +1,20 @@
 <style>
 
+section {
+
+display: flex;
+flex-direction: row;
+
+  
+}
+
+
+  
 div {
   background: red;
-  display: inline-block;
   width: 60px;
   hieght: 40px;
-  
+  margin: auto;
 }
   
 </style>
@@ -17,7 +26,7 @@ div {
 
 <section>
   
-<div>a</div>
+<div>aa</div>
 <div>b</div>
 <div>c</div>
 
