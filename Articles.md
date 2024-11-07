@@ -107,6 +107,8 @@ color: rgb(255, 125, 248);
 H! Here are some articles about stuff!
 </h1>
 
+<hr>
+
 <h2>
  Feel free to look around!
 </h2>
