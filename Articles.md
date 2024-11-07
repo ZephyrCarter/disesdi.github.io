@@ -85,58 +85,70 @@ div {
 }
 
 </style>
-<body>
-H! Here are some articles!
+<body> 
 
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| <a href="https://anglesofattack.io/Videos.html" target="_blank" rel="noopener noreferrer">videos</a> \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+
+
+<h1>
+H! Here are some articles about stuff!
+</h1>
+
+<h2>
+ Feel free to look around!
+</h2>
+ 
 <hr>
   
 <div class="A_11_07_2024_1">
-  <h2>Washington</h2>
+  <h3>Washington</h3>
   <hr>
   <p>Washington D.C. is the capital city of America.</p>
 </div>
 
 <div class="A_11_07_2024_2">
-  <h2>London</h2>
+  <h3>London</h3>
   <hr>
   <p>London is the capital city of England.</p>
 </div>
 
 <div class="A_11_07_2024_3">
-  <h2>Oslo</h2>
+  <h3>Oslo</h3>
   <hr>
   <p>Oslo is the capital city of Norway.</p>
 </div>
 
 <div class="A_11_07_2024_4">
-  <h2>Rome</h2>
+  <h3>Rome</h3>
   <hr>
   <p>Rome is the capital city of Italy.</p>
 </div>
 
 <div class="A_11_07_2024_5">
-  <h2>Tel Aviv</h2>
+  <h3>Tel Aviv</h3>
   <hr>
   <p>Tel Aviv is the capital city of Israel.</p>
 </div>
 
 <div class="A_11_07_2024_6">
-  <h2>Baghdad</h2>
+  <h3>Baghdad</h3>
   <hr>
   <p>Baghdad is the capital city of Iraq.</p>
 </div>
 
 <div class="A_11_07_2024_7">
-  <h2>Tokyo</h2>
+  <h3>Tokyo</h3>
   <hr>
   <p>Tokyo is the capital city of Japan.</p>
 </div>
 
 <div class="A_11_07_2024_8">
-  <h2>New Delhi</h2> 
+  <h3>New Delhi</h3> 
   <hr>
   <p>New Delhi is the capital city of India.</p>    
 </div>
+
+[home](https://disesdi.github.io/) \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| <a href="https://anglesofattack.io/Videos.html" target="_blank" rel="noopener noreferrer">videos</a> \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 </body>
 </html>
