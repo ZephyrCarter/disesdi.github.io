@@ -99,7 +99,7 @@ color: rgb(255, 125, 248);
 </style>
 <body> 
 
-<a href="https://disesdi.github.io/">home</a> \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| <a href="https://anglesofattack.io/Videos.html" target="_blank" rel="noopener noreferrer">videos</a> \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+<a href="https://disesdi.github.io/">home</a> | <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> | <a href="https://anglesofattack.io/Videos.html" target="_blank" rel="noopener noreferrer">videos</a> | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 <hr>
 
@@ -163,7 +163,7 @@ H! Here are some articles about stuff!
 
 <hr>
 
-<a href="https://disesdi.github.io/">home</a> \| <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> \| <a href="https://anglesofattack.io/Videos.html" target="_blank" rel="noopener noreferrer">videos</a> \| <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> \| <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
+<a href="https://disesdi.github.io/">home</a> | <a href="https://anglesofattack.io/resources.html" target="_blank" rel="noopener noreferrer">resources</a> | <a href="https://anglesofattack.io/Videos.html" target="_blank" rel="noopener noreferrer">videos</a> | <a href="https://github.com/disesdi/" target="_blank" rel="noopener noreferrer">github</a> | <a href="https://anglesofattack.io/about.html" target="_blank" rel="noopener noreferrer">about</a>
 
 
 </body>
