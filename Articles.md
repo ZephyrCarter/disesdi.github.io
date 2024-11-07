@@ -1,11 +1,13 @@
 <style>
 
-.ArticleDateNUMBER { background: grey;
-                        padding: 20px;
-                        margin: 10px;
-                       
-                       
-                       }
+div {
+  background: red;
+  display: inline-block;
+  width: 60px;
+  hieght: 40px;
+  
+}
+  
 </style>
 
 
