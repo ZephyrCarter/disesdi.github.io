@@ -1,6 +1,6 @@
 <style>
 
-section {
+.articles {
 
 display: flex;
 flex-direction: row;
@@ -24,13 +24,13 @@ div {
 
 <hr>
 
-<section>
+<div class="articles">
   
 <div>aa</div>
-<div>b</div>
+<div>bb</div>
 <div>c</div>
 
-</section>
+</div>
 
 
 
