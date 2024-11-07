@@ -6,6 +6,10 @@ div {
   height: 110px;
   margin: 10px;
 }
+body{
+  text-align: center;
+}
+  
 </style>
 <body>
 
