@@ -57,7 +57,8 @@ border-radius: 5px;
 <!-- ADD NEWEST VIDEOS ABOVE THE PREVIOUS ONES (instructions below) IN ROWS OF THREE (three videos per div) -->
 
 <div class="VIDEOS">
-<iframe width="160" height="99" src="https://www.youtube.com/embed/majXToGxld0?si=Lpsn67cUaSVA6FsT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="160" height="99" src="https://m.youtube.com/embed/v=majXToGxld0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
+       
 <iframe width="160" height="99" src="https://www.youtube.com/embed/SlegGuklfxw?si=J3JJcgDVUR9pht8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="160" height="99" src="https://www.youtube.com/embed/SlYPuWwPoYk?si=X7Y42zcb-ihYDTe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
